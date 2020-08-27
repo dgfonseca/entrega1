@@ -1,0 +1,75 @@
+.col{
+    text-align: center;
+    font-size: 18px;
+    padding: 15px;
+    border-color: red;
+    
+}
+.btn
+{
+    background-color: silver;
+}
+div.col
+{
+    background-color: #d7d7d9;
+    padding:15px;
+}
+.fullpage{
+    background-color: #d7d7d9;
+}
+#nombre
+{
+    font-family: Monaco;
+}
+.paragraph
+{
+    padding:10px;
+}
+.espacio
+{
+    list-style-type: disc;
+    color:#d7d7d9;
+    font-family: Monaco;
+}
+.titulo
+{
+    font-family: Monaco;
+}
+.d-block
+{
+    align-items: center;
+}
+.parrafo
+{
+    color:black  
+}
+
+.tr.td
+{
+    font-size: 14px;
+    color:black;
+    text-align: center;
+}
+#tabla
+{
+    border-collapse: collapse;
+}
+#tabla td, #tabla th{
+    border: 1px solid black;
+    padding: 8px;
+}
+#tabla tr:nth-child(even)
+{
+    background-color: gray;
+}
+#tabla tr:hover{
+    background-color: lightsteelblue;
+}
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: gray;
+    color: white;
+  }
+
